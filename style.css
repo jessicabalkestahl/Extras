@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(68, 115, 158);
+}
+
+input{
+    text-align: center;
+}
+
+#login-form, #new-user-form{
+    background-color: rgba(61, 145, 194, 0.616);
+    width: 40%;
+    margin: 50px auto;
+    padding: 30px;
+    border-radius: 10px;
+}
